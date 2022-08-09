@@ -22,9 +22,11 @@
 
 [![Golang](https://img.shields.io/badge/Golang-00a7d0?style=flat-square&logo=go&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-c99e03?style=flat-square&logo=python&logoColor=white)](#)
 [![Gin](https://img.shields.io/badge/Gin-0090d1?style=flat-square&logo=gin&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-00b2e3?style=flat-square&logo=react&logoColor=white)](#)
 [![Vue](https://img.shields.io/badge/Vue-3fb27f?style=flat-square&logo=Vue.js&logoColor=white)](#)
+[![Spark](https://img.shields.io/badge/Spark-F55B14?style=flat-square&logo=spark&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](#)
 [![Bilibili](https://img.shields.io/badge/Bilibili-fb7299?style=flat-square&logo=Bilibili&logoColor=white)](#)
