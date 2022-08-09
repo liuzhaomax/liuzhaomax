@@ -1,6 +1,6 @@
 ### 倒履相迎 Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liuzhaomax&count_private=true&show_icons=true&theme=radicalhide_title=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liuzhaomax&count_private=true&show_icons=true&theme=radicalhide&title=true&show_icons=true" />
 
 <!--
 **liuzhaomax/liuzhaomax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
