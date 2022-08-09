@@ -1,6 +1,6 @@
 ### ✨倒履相迎✨ Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liuzhaomax&count_private=true&show_icons=true&theme=tokyonight&title=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liuzhaomax&count_private=true&show_icons=true&theme=gruvbox&title=true&show_icons=true" />
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzhaomax&layout=compact" />
