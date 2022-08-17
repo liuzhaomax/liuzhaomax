@@ -13,7 +13,7 @@
 
 自我介绍 Introduction:
 
-- 😄 姓名：刘Zhao（网名：马克西）
+- 😄 姓名：刘Zhao
 - 💬 Pronouns: /ljuː/ /dʒaʊ/
 - 📫 联系微信：liuzhaomax 。Contact → Email
 - 🔭 在搞Golang微服务架构。Working on Golang Microservices.
