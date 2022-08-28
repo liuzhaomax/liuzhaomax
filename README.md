@@ -15,6 +15,7 @@
 自我介绍 Introduction:
 
 - 😄 马克西 Max
+- 💬 Golang & JavaScript 爱好者
 - 📫 联系微信：liuzhaomax 。Contact → Email
 - 🔭 在搞Golang微服务架构。Working on Golang Microservices.
 - 🌱 最近在学K8s。Learning Kubernetes.
