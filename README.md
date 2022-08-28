@@ -6,6 +6,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzhaomax&layout=compact" />
 **liuzhaomax/liuzhaomax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💬 Ask me about ...
+- 💬 Pronouns: /ljuː/ /dʒaʊ/
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
 - 🕊
@@ -13,8 +14,7 @@
 
 自我介绍 Introduction:
 
-- 😄 姓名：刘Zhao
-- 💬 Pronouns: /ljuː/ /dʒaʊ/
+- 😄 马克西 Max
 - 📫 联系微信：liuzhaomax 。Contact → Email
 - 🔭 在搞Golang微服务架构。Working on Golang Microservices.
 - 🌱 最近在学K8s。Learning Kubernetes.
