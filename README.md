@@ -32,4 +32,5 @@
 [![Vue](https://img.shields.io/badge/Vue-3fb27f?style=flat-square&logo=Vue.js&logoColor=white)](#)
 [![Spark](https://img.shields.io/badge/Spark-F55B14?style=flat-square&logo=spark&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-2496ed?style=flat-square&logo=jenkins&logoColor=white)](#)
 [![Bilibili](https://img.shields.io/badge/Bilibili-fb7299?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/18359348)
