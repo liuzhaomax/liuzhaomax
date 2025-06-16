@@ -27,6 +27,7 @@
 
 [![Golang](https://img.shields.io/badge/Golang-00a7d0?style=flat-square&logo=go&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](#)
+[![Static Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-c99e03?style=flat-square&logo=python&logoColor=white)](#)
 [![Gin](https://img.shields.io/badge/Gin-0090d1?style=flat-square&logo=gin&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white)](#)
